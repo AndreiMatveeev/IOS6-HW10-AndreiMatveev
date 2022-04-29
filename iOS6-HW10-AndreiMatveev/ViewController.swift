@@ -8,6 +8,9 @@ class ViewController: UIViewController {
         
     }
 
+    func changeScreenColor() {
+        view.backgroundColor = .red
+    }
 
 }
 
